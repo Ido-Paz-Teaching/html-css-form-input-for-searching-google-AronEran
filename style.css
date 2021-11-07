@@ -1,0 +1,9 @@
+
+* {
+        margin: 5px;
+    }
+
+  input, label , select{
+        display:block;
+    }
+
